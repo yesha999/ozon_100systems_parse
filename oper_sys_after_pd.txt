@@ -1,0 +1,6 @@
+Android 11.x,47
+iOS 14,16
+Android 10.x,12
+Android 12.x,12
+iOS 13,12
+Android 11 (EMUI 12),1
